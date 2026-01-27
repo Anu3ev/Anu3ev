@@ -10,12 +10,10 @@ For the last 4+ years I’ve been working on an e-commerce SaaS platform, design
 I enjoy turning unclear requirements into clear UI, scalable architecture, and a smooth user experience.
 I’m comfortable owning features end to end, from concept and API contracts to release and iteration.
 
-
-
 ### Focus areas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,tailwind,html,css,vite,webpack,nodejs,git,githubactions&perline=12" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,tailwind,html,css,vite,webpack,nodejs,npm,git,githubactions,linux,figma,jquery&perline=8" />
 </p>
 
 - Vue 2/3, TypeScript, JavaScript, Nuxt
