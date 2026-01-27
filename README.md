@@ -7,14 +7,15 @@ I enjoy turning unclear requirements into clear UI, scalable architecture, and a
 I’m comfortable owning features end to end, from concept and API contracts to release and iteration.
 
 ### Focus areas
-- Vue 2/3, TypeScript, JavaScript, Nuxt
-- UI architecture, performance, maintainability
-- Complex interactive tools (Canvas, editors), integrations, admin panels
-- Vite / Webpack, Git, CI basics
 
 <p>
   <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,tailwind,html,css,vite,webpack,nodejs,git,githubactions&perline=12" />
 </p>
+
+- Vue 2/3, TypeScript, JavaScript, Nuxt
+- UI architecture, performance, maintainability
+- Complex interactive tools (Canvas, editors), integrations, admin panels
+- Vite / Webpack, Git, CI basics
 
 ### Projects
 - [Image Editor](https://github.com/Anu3ev/image-editor): TypeScript library on FabricJS (montage area, history, layers, clipboard, AI integrations)
