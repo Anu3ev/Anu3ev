@@ -41,7 +41,17 @@ Location: Batumi, Georgia | Start: within 2 weeks after offer
 ### 📊 Stats
 
 <p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Anu3ev&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=tokyonight" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=anu3ev&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=anu3ev&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=anu3ev&show_icons=true" />
+  </picture>
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu3ev&layout=compact&hide_border=true&theme=dark" />
 </p>
 
