@@ -41,16 +41,27 @@ Location: Batumi, Georgia | Start: within 2 weeks after offer
 <p align="left">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anu3ev&show_icons=true&theme=dark&hide_border=true&disable_animations=true&hide=issues,contribs&icon_color=36bcf7"
+      srcset="https://github-readme-stats.vercel.app/api?username=anu3ev&show_icons=true&theme=dark&hide_border=true&disable_animations=true&hide=issues,contribs"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anu3ev&show_icons=true&hide_border=true&disable_animations=true&hide=issues,contribs&icon_color=36bcf7"
+      srcset="https://github-readme-stats.vercel.app/api?username=anu3ev&show_icons=true&hide_border=true&disable_animations=true&hide=issues,contribs"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=anu3ev&show_icons=true&hide_border=true&hide=issues,contribs&icon_color=36bcf7" />
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=anu3ev&show_icons=true&hide_border=true&hide=issues,contribs" />
   </picture>
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu3ev&layout=compact&hide_border=true&theme=dark&disable_animations=true&hide=issues,contribs&icon_color=36bcf7" />
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu3ev&layout=compact&hide_border=true&theme=dark&disable_animations=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu3ev&layout=compact&hide_border=true&disable_animations=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu3ev&layout=compact&hide_border=true&disable_animations=true" />
+  </picture>
 </p>
 
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=anu3ev&repo=anu3ev&countColorcountColor&countColor=%237B1E7B&disable_animations=true"/>
