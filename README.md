@@ -1,16 +1,28 @@
-## Hi there 👋
+## Alexander Anufriev | Frontend Engineer (Vue, TypeScript)
 
-<!--
-**Anu3ev/Anu3ev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build high-performance, product-oriented interfaces with Vue 2/3, TypeScript, and JavaScript.
+For the last 4+ years I’ve been working on an e-commerce SaaS platform, designing and shipping features used by 60k+ merchants.
 
-Here are some ideas to get you started:
+I enjoy turning unclear requirements into clear UI, scalable architecture, and a smooth user experience.
+I’m comfortable owning features end to end, from concept and API contracts to release and iteration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus areas
+- Vue 2/3, TypeScript, JavaScript, Nuxt
+- UI architecture, performance, maintainability
+- Complex interactive tools (Canvas, editors), integrations, admin panels
+- Vite / Webpack, Git, CI basics
+
+### Projects
+- Image Editor: TypeScript library on FabricJS (montage area, history, layers, clipboard, AI integrations) [link](https://github.com/Anu3ev/image-editor)
+- The test task for the Relevator company with Vue 3, Nuxt 4, Tailwind CSS, Dato CMS, GraphQL, and Vercel deployment [link](https://github.com/Anu3ev/relevator-events)
+
+### Open to work
+I’m looking for a remote Frontend role (Vue / TypeScript) in an international, product-focused team.
+Location: Batumi, Georgia | Start: within 2 weeks after offer
+
+[Here is my resume](https://drive.google.com/file/d/1DsB3rERo8SM1aK9cyTQtODBJwUxdZrBE/view?usp=drive_link)
+
+### Contact
+- alexander.s.anufriev@gmail.com
+- https://www.linkedin.com/in/alexander-s-anufriev/
+- https://t.me/anu3ev
