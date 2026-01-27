@@ -45,4 +45,4 @@ Location: Batumi, Georgia | Start: within 2 weeks after offer
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu3ev&layout=compact&hide_border=true" />
 </p>
 
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=anu3ev&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=anu3ev&repo=anu3ev&countColorcountColor&countColor=%237B1E7B"/>
