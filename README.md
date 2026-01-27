@@ -40,19 +40,19 @@ Location: Batumi, Georgia | Start: within 2 weeks after offer
 
 ### 📊 Stats
 
-<p align="center">
+<p align="left">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anu3ev&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=anu3ev&show_icons=true&theme=dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anu3ev&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=anu3ev&show_icons=true&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=anu3ev&show_icons=true" />
+    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=anu3ev&show_icons=true&hide_border=true" />
   </picture>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu3ev&layout=compact&hide_border=true&theme=dark" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu3ev&layout=compact&hide_border=true&theme=dark" />
 </p>
 
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=anu3ev&repo=anu3ev&countColorcountColor&countColor=%237B1E7B"/>
