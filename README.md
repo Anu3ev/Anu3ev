@@ -38,6 +38,4 @@ Location: Batumi, Georgia | Start: within 2 weeks after offer
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu3ev&layout=compact&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anu3ev&hide_border=true" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anu3ev&theme=dark&hide_border=true&border_radius=12" alt="GitHub Streak" /></a>
