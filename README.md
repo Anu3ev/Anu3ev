@@ -10,6 +10,8 @@ For the last 4+ years I’ve been working on an e-commerce SaaS platform, design
 I enjoy turning unclear requirements into clear UI, scalable architecture, and a smooth user experience.
 I’m comfortable owning features end to end, from concept and API contracts to release and iteration.
 
+
+
 ### Focus areas
 
 <p>
@@ -31,16 +33,14 @@ Location: Batumi, Georgia | Start: within 2 weeks after offer
 
 [Here is my resume](https://drive.google.com/file/d/1DsB3rERo8SM1aK9cyTQtODBJwUxdZrBE/view?usp=drive_link)
 
-### Contact
-- alexander.s.anufriev@gmail.com
-- https://www.linkedin.com/in/alexander-s-anufriev/
-- https://t.me/anu3ev
+### 🗪 Contact
+- 📧 alexander.s.anufriev@gmail.com
+- 💼 https://www.linkedin.com/in/alexander-s-anufriev/
+- 💬 https://t.me/anu3ev
 
-## 📊 GitHub stats
+### 📊 Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anu3ev&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu3ev&layout=compact&hide_border=true" />
 </p>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anu3ev&theme=dark&hide_border=true&border_radius=12" alt="GitHub Streak" /></a>
