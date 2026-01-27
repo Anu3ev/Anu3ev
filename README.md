@@ -13,8 +13,8 @@ I’m comfortable owning features end to end, from concept and API contracts to 
 - Vite / Webpack, Git, CI basics
 
 ### Projects
-- Image Editor: TypeScript library on FabricJS (montage area, history, layers, clipboard, AI integrations) [link](https://github.com/Anu3ev/image-editor)
-- The test task for the Relevator company with Vue 3, Nuxt 4, Tailwind CSS, Dato CMS, GraphQL, and Vercel deployment [link](https://github.com/Anu3ev/relevator-events)
+- [Image Editor](https://github.com/Anu3ev/image-editor): TypeScript library on FabricJS (montage area, history, layers, clipboard, AI integrations)
+- [Relevator Events](https://github.com/Anu3ev/relevator-events): The test task for the Relevator company with Vue 3, Nuxt 4, Tailwind CSS, Dato CMS, GraphQL, and Vercel deployment
 
 ### Open to work
 I’m looking for a remote Frontend role (Vue / TypeScript) in an international, product-focused team.
