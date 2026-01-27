@@ -11,7 +11,6 @@ I enjoy turning unclear requirements into clear UI, scalable architecture, and a
 I’m comfortable owning features end to end, from concept and API contracts to release and iteration.
 
 ### Focus areas
-
 <p>
   <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,tailwind,html,css,vite,webpack,nodejs,npm,git,githubactions,linux,figma,jquery&perline=8" />
 </p>
