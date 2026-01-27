@@ -36,7 +36,6 @@ Location: Batumi, Georgia | Start: within 2 weeks after offer
 - 💬 https://t.me/anu3ev
 
 ### 📊 Stats
-
 <p align="left">
   <picture>
     <source
