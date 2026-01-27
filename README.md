@@ -63,5 +63,3 @@ Location: Batumi, Georgia | Start: within 2 weeks after offer
 </p>
 
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=anu3ev&repo=anu3ev&countColorcountColor&countColor=%237B1E7B&disable_animations=true"/>
-
-#OpenToWork
