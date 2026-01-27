@@ -44,3 +44,6 @@ Location: Batumi, Georgia | Start: within 2 weeks after offer
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anu3ev&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu3ev&layout=compact&hide_border=true" />
 </p>
+
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+
