@@ -30,7 +30,7 @@ Location: Batumi, Georgia | Start: within 2 weeks after offer
 
 [Here is my resume](https://drive.google.com/file/d/1DsB3rERo8SM1aK9cyTQtODBJwUxdZrBE/view?usp=drive_link)
 
-### 🗪 Contact
+### 💭 Contact
 - 📧 alexander.s.anufriev@gmail.com
 - 💼 https://www.linkedin.com/in/alexander-s-anufriev/
 - 💬 https://t.me/anu3ev
