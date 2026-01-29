@@ -21,7 +21,7 @@ I’m comfortable owning features end to end, from concept and API contracts to 
 - Vite / Webpack, Git, CI basics
 
 ### 🏗️ Recent Projects
-- [Image Editor](https://github.com/Anu3ev/image-editor): TypeScript library on FabricJS (montage area, history, layers, clipboard, AI integrations)
+- [Image Editor](https://github.com/Anu3ev/image-editor): TypeScript library on FabricJS (montage area, history, layers, clipboard, text editing, templates and so on)
 - [Relevator Events](https://github.com/Anu3ev/relevator-events): The test task for the Relevator company with Vue 3, Nuxt 4, Tailwind CSS, Dato CMS, GraphQL, and Vercel deployment
 
 ### 💻 Open to work
