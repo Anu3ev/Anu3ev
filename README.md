@@ -28,8 +28,6 @@ I’m comfortable owning features end to end, from concept and API contracts to 
 I’m looking for a remote Frontend role (Vue / TypeScript) in an international, product-focused team.
 Location: Batumi, Georgia | Start: within 2 weeks after offer
 
-[Here is my resume](https://drive.google.com/file/d/1J9pHRAKRRiXdaeTavWjCmgt-c-XEgLc7/view?usp=drive_link)
-
 ### 💭 Contact
 - 📧 alexander.s.anufriev@gmail.com
 - 💼 https://www.linkedin.com/in/alexander-s-anufriev/
