@@ -1,7 +1,7 @@
 <!-- PROFILE README for github.com/Anu3ev -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Alexander+Anufriev;Frontend+Engineer+%7C+Vue+%2B+TypeScript;Building+fast%2C+product-oriented+web+apps;Open+to+work+%E2%9A%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Alexander+Anufriev;Senior+Frontend+Developer+%7C+Vue+%2B+TypeScript;Building+fast%2C+product-oriented+web+apps;Open+to+work+%E2%9A%A1" />
 </p>
 
 I build high-performance, product-oriented interfaces with Vue 2/3, TypeScript, and JavaScript.
