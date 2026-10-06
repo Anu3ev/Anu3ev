@@ -2,9 +2,9 @@
 
 Senior Frontend Developer · Vue · TypeScript · Nuxt
 
-I build interfaces for e-commerce products and complex browser-based tools. My work focuses on Vue applications, canvas editors, frontend architecture, and API integrations.
+I'm a Senior Frontend Engineer with 5 years of production experience, mainly with Vue and TypeScript. At inSales, I built a Vue image editor used by 3,000+ active clients and the reusable TypeScript/Fabric.js library behind it. My work also included shared text and code editors, cart-recovery interfaces, and storefront performance improvements. I enjoy digging into difficult bugs and building tools people use in their daily work. 
 
-I’m looking for a remote Vue / TypeScript role in an international product team.
+I'm looking for a remote frontend role in an international team.
 
 ## Selected projects
 
