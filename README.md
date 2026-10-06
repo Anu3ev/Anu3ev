@@ -1,63 +1,34 @@
-<!-- PROFILE README for github.com/Anu3ev -->
+# Alexander Anufriev
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Alexander+Anufriev;Senior+Frontend+Developer+%7C+Vue+%2B+TypeScript;Building+fast%2C+product-oriented+web+apps;Open+to+work+%E2%9A%A1" />
-</p>
+Senior Frontend Developer · Vue · TypeScript · Nuxt
 
-I build high-performance, product-oriented interfaces with Vue 2/3, TypeScript, and JavaScript.
-For the last 5 years I’ve been working on an e-commerce SaaS platform, designing and shipping features used by 60k+ merchants.
+I build interfaces for e-commerce products and complex browser-based tools. My work focuses on Vue applications, canvas editors, frontend architecture, and API integrations.
 
-I enjoy turning unclear requirements into clear UI, scalable architecture, and a smooth user experience.
-I’m comfortable owning features end to end, from concept and API contracts to release and iteration.
+I’m looking for a remote Vue / TypeScript role in an international product team.
 
-### 🛠️ Focus areas
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,tailwind,html,css,vite,webpack,nodejs,npm,git,githubactions,linux,figma,jquery&perline=8" />
-</p>
+## Selected projects
 
-- Vue 2/3, TypeScript, JavaScript, Nuxt
-- UI architecture, performance, maintainability
-- Complex interactive tools (Canvas, editors), integrations, admin panels
-- Vite / Webpack, Git, CI basics
+### [Fabric Image Editor](https://github.com/Anu3ev/image-editor)
 
-### 🏗️ Recent Projects
-- [Image Editor](https://github.com/Anu3ev/image-editor): TypeScript library on FabricJS (montage area, history, layers, clipboard, text editing, templates and so on)
-- [Relevator Events](https://github.com/Anu3ev/relevator-events): The test task for the Relevator company with Vue 3, Nuxt 4, Tailwind CSS, Dato CMS, GraphQL, and Vercel deployment
+A TypeScript library built on FabricJS, with canvas state, undo/redo, layers, cropping, text editing, and export. The project explores how to keep interactive editing workflows behind a modular API that host applications can integrate.
 
-### 💻 Open to work
-I’m looking for a remote Frontend role (Vue / TypeScript) in an international, product-focused team.
-Location: Batumi, Georgia | Start: within 2 weeks after offer
+[Try the demo](https://anu3ev.github.io/image-editor/) · [Read the implementation and setup](https://github.com/Anu3ev/image-editor#readme)
 
-### 💭 Contact
-- 📧 alexander.s.anufriev@gmail.com
-- 💼 https://www.linkedin.com/in/alexander-s-anufriev/
-- 💬 https://t.me/anu3ev
+### [Relevator Events](https://github.com/Anu3ev/relevator-events)
 
-### 📊 Stats
-<p align="left">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anu3ev&show_icons=true&theme=dark&hide_border=true&disable_animations=true&hide=issues,contribs"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anu3ev&show_icons=true&hide_border=true&disable_animations=true&hide=issues,contribs"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=anu3ev&show_icons=true&hide_border=true&hide=issues,contribs" />
-  </picture>
+A Nuxt 4 event application built with TypeScript, Tailwind CSS, DatoCMS, and GraphQL. It includes a paginated event feed, dynamic detail pages, typed data access, and error handling. Originally developed as a take-home assignment.
 
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu3ev&layout=compact&hide_border=true&theme=dark&disable_animations=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu3ev&layout=compact&hide_border=true&disable_animations=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu3ev&layout=compact&hide_border=true&disable_animations=true" />
-  </picture>
-</p>
+[Read the architecture and setup](https://github.com/Anu3ev/relevator-events#readme)
 
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=anu3ev&repo=anu3ev&countColorcountColor&countColor=%237B1E7B&disable_animations=true"/>
+## What I work with
+
+- Vue 2/3, TypeScript, JavaScript, and Nuxt
+- Canvas interactions, editor state, and undoable workflows
+- E-commerce interfaces, admin tools, and API integrations
+- Vite, Webpack, Git, and GitHub Actions
+
+## Contact
+
+- [Email](mailto:alexander.s.anufriev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/alexander-s-anufriev/)
+- [Telegram](https://t.me/anu3ev)
