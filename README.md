@@ -2,11 +2,19 @@
 
 Senior Frontend Developer · Vue · TypeScript · Nuxt
 
-I'm a Senior Frontend Engineer with 5 years of production experience, mainly with Vue and TypeScript. At [inSales](https://www.insales.ru/), I built a Vue image editor used by 3,000+ active clients and the reusable TypeScript/Fabric.js library behind it. My work also included shared text and code editors, cart-recovery interfaces, and storefront performance improvements. I enjoy digging into difficult bugs and building tools people use in their daily work. 
+I have 5 years of production experience building e-commerce interfaces and reusable tools. I enjoy digging into difficult bugs.
 
 I'm looking for a remote frontend role in an international team.
 
-## Selected projects
+## Selected product work at [inSales](https://www.insales.ru/)
+
+- **Product image editor.** I built the Vue frontend for an editor used by 3,000+ active clients. Merchants can save editable projects, reuse templates, apply changes across images, and use AI tools inside inSales.
+- **Abandoned Carts.** I was the sole frontend developer for a cart-recovery product with 200+ active paid subscribers. I delivered analytics, cart history, messaging, and subscription states from requirements through release.
+- **Storefront performance.** I rebuilt product loading and caching, reducing product-data requests by approximately 70%. In representative measurements, product-heavy pages loaded in 2–3 seconds instead of over 5 seconds.
+
+[Projects](https://www.linkedin.com/in/alexander-s-anufriev/details/projects/) · [Recommendations](https://www.linkedin.com/in/alexander-s-anufriev/details/recommendations/)
+
+## Public projects
 
 ### [Fabric Image Editor](https://github.com/Anu3ev/image-editor)
 
