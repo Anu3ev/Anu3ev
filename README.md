@@ -3,28 +3,8 @@
 ### Senior Frontend Engineer · Vue · TypeScript · Nuxt
 
 <p>
-<picture>
-  <source
-    media="(max-width: 600px) and (prefers-color-scheme: dark)"
-    srcset="assets/workbench-mobile-dark.svg"
-    width="700" height="240"
-  />
-  <source
-    media="(max-width: 600px)"
-    srcset="assets/workbench-mobile-light.svg"
-    width="700" height="240"
-  />
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="assets/workbench-dark.svg"
-    width="1200" height="252"
-  />
-  <img
-    src="assets/workbench-light.svg"
-    width="1200" height="252"
-    alt="Editors, storefronts, and merchant tools"
-  />
-</picture>
+  <a href="assets/workbench-responsive-light.svg#gh-light-mode-only"><img src="assets/workbench-responsive-light.svg" width="1200" height="252" alt="Editors, storefronts, and merchant tools" /></a>
+  <a href="assets/workbench-responsive-dark.svg#gh-dark-mode-only"><img src="assets/workbench-responsive-dark.svg" width="1200" height="252" alt="Editors, storefronts, and merchant tools" /></a>
 </p>
 
 <p>
@@ -49,7 +29,7 @@ I take frontend work from requirements and API contracts through architecture, t
 
 <p>
 <a href="https://github.com/Anu3ev/image-editor#built-with-this-library">
-  <img src="https://raw.githubusercontent.com/Anu3ev/image-editor/d2738b00b5786246862487c217953de9e0af81a4/assets/insales-editor-integration.jpg" width="1200" alt="The production inSales Vue image editor, with reusable templates and an editable product-image composition" />
+  <img src="https://raw.githubusercontent.com/Anu3ev/image-editor/d2738b00b5786246862487c217953de9e0af81a4/assets/insales-editor-integration.jpg" width="1919" height="894" alt="The production inSales Vue image editor, with reusable templates and an editable product-image composition" />
 </a>
 </p>
 
@@ -81,16 +61,16 @@ The screenshot shows the commercial application. Its reusable canvas engine is m
 
 <p>
 <a href="https://anu3ev.github.io/image-editor/">
-  <img src="https://raw.githubusercontent.com/Anu3ev/image-editor/d2738b00b5786246862487c217953de9e0af81a4/assets/layers-history-demo.gif" width="800" alt="The standalone library demo: editing a canvas composition with layers and undo/redo history" />
+  <img src="assets/layers-history-demo.webp" width="800" height="349" alt="The standalone library demo: editing a canvas composition with layers and undo/redo history" />
 </a>
 </p>
 
 I built the reusable engine behind the production Vue editor: canvas interactions, rich text, layers, history, templates, and import/export, with full editable-state serialization and restoration. The difficult part is keeping objects consistent across creation, copy/paste, template restore, and undo/redo. I improved image loading by **over 2×** and moved heavy import/export work to Web Workers.
 
 <p>
-  <a href="https://anu3ev.github.io/image-editor/"><img src="assets/demo.svg" height="32" alt="Try the live image-editor demo" /></a>
-  <a href="https://github.com/Anu3ev/image-editor"><img src="assets/source.svg" height="32" alt="Read the image-editor source" /></a>
-  <a href="https://www.npmjs.com/package/@anu3ev/fabric-image-editor"><img src="assets/package.svg" height="32" alt="View the npm package" /></a>
+  <a href="https://anu3ev.github.io/image-editor/"><img src="assets/demo.svg" width="124" height="36" alt="Try the live image-editor demo" /></a>
+  <a href="https://github.com/Anu3ev/image-editor"><img src="assets/source.svg" width="144" height="36" alt="Read the image-editor source" /></a>
+  <a href="https://www.npmjs.com/package/@anu3ev/fabric-image-editor"><img src="assets/package.svg" width="148" height="36" alt="View the npm package" /></a>
 </p>
 
 ### Relevator Events
@@ -99,15 +79,15 @@ I built the reusable engine behind the production Vue editor: canvas interaction
 
 <p>
 <a href="https://relevator-test-l8qu.vercel.app/">
-  <img src="https://github.com/user-attachments/assets/e9de5000-ba47-479e-bed7-b95392a3c2b1" width="1200" alt="Relevator Events: a responsive event directory with an event feed and detail pages" />
+  <img src="https://github.com/user-attachments/assets/e9de5000-ba47-479e-bed7-b95392a3c2b1" width="1899" height="890" alt="Relevator Events: a responsive event directory with an event feed and detail pages" />
 </a>
 </p>
 
 An event directory I built as a frontend take-home assignment. It has server-rendered detail pages, a paginated feed, typed CMS integration, and loading and recovery states. Tests cover navigation, direct URLs, pagination, and narrow screens. A bundled local demo works without a CMS account.
 
 <p>
-  <a href="https://relevator-test-l8qu.vercel.app/"><img src="assets/demo.svg" height="32" alt="Try the Relevator Events demo" /></a>
-  <a href="https://github.com/Anu3ev/relevator-events"><img src="assets/source.svg" height="32" alt="Read the Relevator Events source" /></a>
+  <a href="https://relevator-test-l8qu.vercel.app/"><img src="assets/demo.svg" width="124" height="36" alt="Try the Relevator Events demo" /></a>
+  <a href="https://github.com/Anu3ev/relevator-events"><img src="assets/source.svg" width="144" height="36" alt="Read the Relevator Events source" /></a>
 </p>
 
 ## How I work
@@ -119,3 +99,4 @@ Before frontend engineering, I worked in **Support Engineering at inSales**. Tha
 - **Delivery:** Jest, Playwright, Vite, Webpack, Git, GitHub Actions
 
 **Let's talk:** [alexander.s.anufriev@gmail.com](mailto:alexander.s.anufriev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alexander-s-anufriev/) · [Telegram](https://t.me/anu3ev)
+
