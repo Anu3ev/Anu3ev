@@ -30,7 +30,7 @@ A TypeScript library built on FabricJS, with canvas state, undo/redo, layers, cr
 
 A Nuxt 4 event application built with TypeScript, Tailwind CSS, DatoCMS, and GraphQL. It includes a paginated event feed, dynamic detail pages, typed data access, and error handling. Originally developed as a take-home assignment.
 
-[Read the architecture and setup](https://github.com/Anu3ev/relevator-events#readme)
+[Try the demo](https://relevator-test-l8qu.vercel.app/) · [Read the architecture and setup](https://github.com/Anu3ev/relevator-events#readme)
 
 ## What I work with
 
