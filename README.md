@@ -4,10 +4,26 @@
 
 <p>
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/workbench-mobile-dark.svg" />
-  <source media="(max-width: 600px)" srcset="assets/workbench-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/workbench-dark.svg" />
-  <img src="assets/workbench-light.svg" width="1200" alt="An editor-inspired workbench: layers, a selected object, and history. Editors, storefronts, merchant tools." />
+  <source
+    media="(max-width: 600px) and (prefers-color-scheme: dark)"
+    srcset="assets/workbench-mobile-dark.svg"
+    width="700" height="240"
+  />
+  <source
+    media="(max-width: 600px)"
+    srcset="assets/workbench-mobile-light.svg"
+    width="700" height="240"
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="assets/workbench-dark.svg"
+    width="1200" height="252"
+  />
+  <img
+    src="assets/workbench-light.svg"
+    width="1200" height="252"
+    alt="Editors, storefronts, and merchant tools"
+  />
 </picture>
 </p>
 
