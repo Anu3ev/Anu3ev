@@ -1,6 +1,6 @@
 # Alexander Anufriev
 
-Senior Frontend Developer · Vue · TypeScript · Nuxt
+Vue · TypeScript · Nuxt · JavaScript
 
 I'm a Senior Frontend Engineer with 5 years of production experience, mainly with Vue and TypeScript. At [inSales](https://www.insales.ru/), I built a Vue image editor used by 3,000+ active clients and the reusable TypeScript/Fabric.js library behind it. My work also included shared text and code editors, cart-recovery interfaces, and storefront performance improvements. I enjoy digging into difficult bugs and building tools people use in their daily work. 
 
