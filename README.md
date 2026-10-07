@@ -28,11 +28,21 @@
 </p>
 
 <p>
-  <a href="mailto:alexander.s.anufriev@gmail.com"><img src="assets/email.svg" height="36" alt="Email Alexander" /></a>
-  <a href="https://www.linkedin.com/in/alexander-s-anufriev/"><img src="assets/linkedin.svg" height="36" alt="LinkedIn" /></a>
-  <a href="https://t.me/anu3ev"><img src="assets/telegram.svg" height="36" alt="Telegram" /></a>
-  <a href="https://www.linkedin.com/in/alexander-s-anufriev/details/projects/"><img src="assets/projects.svg" height="36" alt="Project presentations" /></a>
-  <a href="https://www.linkedin.com/in/alexander-s-anufriev/details/recommendations/"><img src="assets/recommendations.svg" height="36" alt="Colleague recommendations" /></a>
+  <a href="mailto:alexander.s.anufriev@gmail.com">
+    <img src="assets/email.svg" width="92" height="36" alt="Email Alexander" />
+  </a>
+  <a href="https://www.linkedin.com/in/alexander-s-anufriev/">
+    <img src="assets/linkedin.svg" width="108" height="36" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/anu3ev">
+    <img src="assets/telegram.svg" width="112" height="36" alt="Telegram" />
+  </a>
+  <a href="https://www.linkedin.com/in/alexander-s-anufriev/details/projects/">
+    <img src="assets/projects.svg" width="104" height="36" alt="Project presentations" />
+  </a>
+  <a href="https://www.linkedin.com/in/alexander-s-anufriev/details/recommendations/">
+    <img src="assets/recommendations.svg" width="180" height="36" alt="Colleague recommendations" />
+  </a>
 </p>
 
 I'm a Senior Frontend Engineer with **5 years of production experience**, mainly with Vue and TypeScript. At [inSales](https://www.insales.ru/), an e-commerce SaaS platform serving **60,000+ merchants**, I built visual editors, storefront infrastructure, and merchant-facing tools.
