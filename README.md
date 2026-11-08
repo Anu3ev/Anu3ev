@@ -2,6 +2,8 @@
 
 ### Senior Frontend Engineer · Vue · TypeScript · Nuxt
 
+[![Vue.js Mid-Level Certificate](https://img.shields.io/badge/Official_Vue.js_Certified-Mid--Level-10B981?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=065F46)](https://certificates.dev/vuejs/certificates/a32cfb9f-3def-47b4-8b0d-9c5532e2abf6)
+
 <p>
   <a href="assets/workbench-responsive-light.svg#gh-light-mode-only"><img src="assets/workbench-responsive-light.svg" width="1200" height="252" alt="Editors, storefronts, and merchant tools" /></a>
   <a href="assets/workbench-responsive-dark.svg#gh-dark-mode-only"><img src="assets/workbench-responsive-dark.svg" width="1200" height="252" alt="Editors, storefronts, and merchant tools" /></a>
